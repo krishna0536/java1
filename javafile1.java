@@ -1,4 +1,5 @@
-public static javafile1 {
-
-echo "new javafile2"
+public class newjava1 {
+  public static void main(String[] args) {
+    System.out.println("Hello, krishna");
+  }
 }
